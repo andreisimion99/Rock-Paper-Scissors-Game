@@ -1,0 +1,1 @@
+   This project is the classic Rock Paper Scissors game, made as a web game. It's single player, meaning that you play with the computer as an opponent.
